@@ -117,7 +117,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "GDGFoumban"
-twitterFeed: "http://haideholdings.com/tweetledee/searchjson.php"
+twitterFeed: "http://haideholdings.com/tweetledee/searchjson.php?q=[GDGFoumban]"
 
 # Partners Block
 organizersTitle: "Organizers"
