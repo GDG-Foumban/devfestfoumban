@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'ANAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
@@ -14,10 +14,10 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/devfestfoumban"
-url: "https://giantthinker.github.io/devfestfoumban/"
+url: "https://giantthinker.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
-googleAnalyticsSiteUrl: "giantthinker.github.io/devfestfoumban/"
+googleAnalyticsSiteUrl: " "
 siteVerification: " "
 
 # Organizer Info
@@ -91,15 +91,15 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
+#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "Royal Palace Road opp. Foyer"
 eventAddressLocality: "Foumban"
 eventAddressLocalityRegion: "West Region"
-eventPostalCode: "79000"
+#eventPostalCode: "79000"
 eventAddressCountry: "Cameroon"
 eventStartTime: "2017-08-26T08:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventDoorTime: "08:00"
+eventEndTime: "2017-08-26T05:00"
 eventPlaceCoordinates: "5.727318, 10.898775"
 mapCenterCoordinates: "5.727404, 10.898840"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -117,11 +117,11 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "GDGFoumban"
-twitterFeed: "http://haideholdings.com/tweetledee/favoritesjson.php"
+twitterFeed: "http://haideholdings.com/tweetledee/favoritesjson.php?cache_interval=300"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+#partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
