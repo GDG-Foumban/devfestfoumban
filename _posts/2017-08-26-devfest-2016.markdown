@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevFest 2016"
-date:   2014-08-26 09:30:00
+date:   2017-07-26 09:30:00
 isStaticPost: false
 ---
 It has been 1 year since our last clustered DevFest in Dschang with 5 GDGs of the Western Region of Cameroon.
