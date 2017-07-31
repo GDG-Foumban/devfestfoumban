@@ -3,7 +3,7 @@
   name: "Abdellah"
   surname: "Ramadan"
   company: "Aurora Space"
-  title: "GDG Foumban Lead"
+  title: "Software Engineer Student"
   bio: "Abdellah is tech enthusiast, software engineering student, web and Android developer, programmer by love. He joined GDG in 2014 and has been partaking to events and more activities of this awesome community. He is currently a co-lead of GDG Foumban. He is the CEO of Aurora Space a software consulting company in Cameroon."
   thumbnailUrl: Ramadan.jpg
   rockstar: true
@@ -18,42 +18,48 @@
   name: "Muhammed"
   surname: "Moustapha"
   company: "Farex"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  title: "Engineer"
+  bio: '<p>Not too much in code but his ideas solves complex problems when put in code. The founder and CEO of Farex, a consulting company that extends beyond technology and touches other fields, Mustapha is the brain behind the creation of GDG Foumban. Today, he supports and participates to GDG events and meetups as a guide and sometimes as a jury. </p>'
   thumbnailUrl: mustapha.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/101655900172336891178/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    #-{name: "facebook", link: "https://www.facebook.com/mohamedmoustapha.gbetkom"}
+    - {name: "google-plus", link: "https://plus.google.com/+MohamedMoustaphaNjoyaGbetkom"}
+   # - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+   # - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
   name: "Njoya"
   surname: "Houdi"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  company: "Design Lead, Aurora-Space"
+  title: "Designer"
+  bio: "A designer of good conduct who focuses on UI/UX. Houdi had taught computer science in high schools for 2 years. He is a design Lead at Aurora, a consulting computer in the process of being fully born. He learns how to code everyday and has been improving his skills in programming. Today, he is a source of inspiration to many."
   thumbnailUrl: houdi1.jpg
   rockstar: true
   ribbon: 
    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/101655900172336891178/"}
+    
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+   # - {name: "facebook", link: "https://www.facebook.com/Irchad.Njikam"}
+    - {name: "google-plus", link: "https://plus.google.com/101310867296669296977"}
+  #  - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
   name: "Bachirou"
   surname: "Njoya"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  company: "Farex consulting, Cameroon"
+  title: "Engineer"
+  bio: "He loves tech stuffs, attending to conferences and being a speaker. Bachirou is the GM of Farex who is skilled at solving complex problems."
   thumbnailUrl: bachirou.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/101655900172336891178/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  #  - {name: "facebook", link: "https://www.facebook.com/bachirou.njoya"}
+    - {name: "google-plus", link: "https://plus.google.com/106244511658516207369"}
+ #   - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 
  

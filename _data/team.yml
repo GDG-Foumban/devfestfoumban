@@ -8,53 +8,53 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AbdellahRamadan"}
+    - {name: "twitter", link: "https://twitter.com/ramadanabdel24"}
+    - {name: "github", link: "https://github.com/giantthinker"}
+   # - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
   name: "Mohammed"
   surname: "Mustapha"
-  title: "Designer and Web Developer"
+  title: "Community Co-Lead, Organizer & Speaker"
   thumbnailUrl: mustapha.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/+MohamedMoustaphaNjoyaGbetkom"}
+   # - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: 
+  name: "Njoya"
+  surname: "Bachirou"
+  title: "Organizer and Logistics Manager"
+  thumbnailUrl: bachirou.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/106244511658516207369"}
+    #- {name: "twitter", link: "https://twitter.com/p1f"}
+   # - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: 
-  subTeam: true
+  name: "Njoya"
+  surname: "Houdi"
+  title: "UI/UX Designer, Organizer"
+  thumbnailUrl: houdi1.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/101310867296669296977"}
+  #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
   name: "Aminu"
   surname: "Amadou"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: aminu.jpeg
+  title: "Organizer"
+  thumbnailUrl: aminu.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+   # - {name: "site", link: "http://olostan.name/"}
