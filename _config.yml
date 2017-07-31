@@ -13,11 +13,19 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
+<<<<<<< HEAD
 baseurl: "/devfestfoumban"
 url: "https://giantthinker.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
 googleAnalyticsSiteUrl: " "
+=======
+baseurl: "/"
+url: "http://devfestfoumban.org"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-84293253-2"
+googleAnalyticsSiteUrl: "giantthinker.github.io"
+>>>>>>> e930d6b9a3fe68e4b40bde917fb68fee4ad1fef2
 siteVerification: " "
 
 # Organizer Info
@@ -289,3 +297,5 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+
+theme: jekyll-theme-cayman
