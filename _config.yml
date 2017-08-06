@@ -14,7 +14,7 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 
-baseurl: "/"
+baseurl: "/devfestfoumban"
 url: "http://devfestfoumban.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
@@ -60,7 +60,7 @@ heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
 eventDate: "August - November, 2017"
 typeoutTextValues: ' "Foumban", "Season"'
-typeoutFallback: "Season"
+typeoutFallback: "Foumban"
 heroButtons:
  - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
@@ -71,6 +71,7 @@ aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Codelabs", image: "hackathon.jpg", text: "Build some apps and deploy from code examples. It is fun expecially when it's your first app. Join us and enjoy the fun." }
+
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
