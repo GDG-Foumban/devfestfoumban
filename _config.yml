@@ -71,7 +71,7 @@ aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Codelabs", image: "hackathon.jpg", text: "Build some apps and deploy from code examples. It is fun expecially when it's your first app. Join us and enjoy the fun." }
-
+ - {title: "Networking", image: "hackathon.jpg", text: "Connect with other developers and get to know them and their experience."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
