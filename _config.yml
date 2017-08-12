@@ -14,7 +14,7 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 
-baseurl: "/"
+baseurl: "/devfestfoumban"
 url: "http://devfestfoumban.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
@@ -86,7 +86,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
