@@ -62,4 +62,16 @@
     - {name: "google-plus", link: "https://plus.google.com/106244511658516207369"}
  #   - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 
- 
+ -
+    id: 7
+    name: "Patouossa"
+    surname: "Ibrahim"
+    company: " "
+    title: "Software Engineer"
+    bio: " "
+    thumbnailUrl: ibrahim.jpg
+    rockstar: true
+ #   ribbon:
+ #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/101655900172336891178/"}
+  #social: 
+      #  - {name: "facebook", link: "https://www.facebook.com/bachirou.njoya"}
