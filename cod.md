@@ -13,7 +13,7 @@ GDG Foumban prides itself on being an open, respectful, and inclusive community.
 If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
 
 
-######Contacts:
+####Contacts:
 
 - Abdellah Ramadan, +237 675 640 435, [Abdellah Ramadan](mailto:ramadanabdel24@gmail.com)
 - Moustapha Njoya,  +237 693 605 980, [Moustapha Njoya](mailto:gicagef@gmail.com)
