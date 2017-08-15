@@ -14,7 +14,7 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 
-baseurl: "/"
+baseurl: "/devfestfoumban"
 url: "http://devfestfoumban.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
@@ -24,14 +24,14 @@ siteVerification: ""
 # Organizer Info
 organizerName: "GDG Foumban"
 organizerAlternateName: "Google Developer Group Foumban"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Les communautés des passionnés ouvertes et bénévoles qui créent des projets passionnants et partagent une expérience de la technologie Google avec passion."
 organizerEmail: "gdgfoumban14@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://gdgfoumban.org/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@GDGFoumban"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,11 +43,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Acceuil"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/speakers/", text: "Intervenants"}
+ - {permalink: "/team/", text: "Equipe"}
 # - {permalink: "/logistics/", text: "Logistics"}
  
 bottomNavigationLinks:
@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "August - November, 2017"
+eventDate: "Août - Novembre, 2017"
 typeoutTextValues: ' "Foumban", "Season"'
 typeoutFallback: "Foumban"
 heroButtons:
@@ -66,12 +66,12 @@ heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest "
+aboutTitle: "À propos de GDG DevFest "
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Codelabs", image: "hackathon.jpg", text: "Build some apps and deploy from code examples. It is fun expecially when it's your first app. Join us and enjoy the fun." }
- - {title: "Networking", image: "hackathon.jpg", text: "Connect with other developers and get to know them and their experience."}
+ - {title: "Conference", image: "conference.jpg", text: "Le plus grand événement lié à Google dans le pays soigneusement conçu pour vous par la communauté GDG! Des conférencier impressionnants et beaucoup d'amusement!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Journée complète d'ateliers, expérience pratique, piratage et débogage. Venez apprivoiser votre technologie préférée!" }
+ - {title: "Codelabs", image: "hackathon.jpg", text: "Créez des applications et déployez-les à partir d'exemples de code. C'est particulièrement amusant quand c'est votre première application. Rejoignez-nous et profitez du plaisir." }
+ - {title: "Networking", image: "hackathon.jpg", text: "Connectez-vous avec d'autres développeurs et communiquez avec eux et leur expérience."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
