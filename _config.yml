@@ -14,7 +14,7 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 
-baseurl: "/"
+baseurl: "/devfestfoumban"
 url: "http://devfestfoumban.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
@@ -53,7 +53,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://www.meetup.com/GDG-Foumban-Meetup/events/242160222/", text: "Attend Event"}
+ - {link: "https://www.meetup.com/GDG-Foumban-Meetup/events/242160222/", text: "Assister à l'événement"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,8 +62,9 @@ eventDate: "Août - Novembre, 2017"
 typeoutTextValues: ' "Foumban", "Season"'
 typeoutFallback: "Foumban"
 heroButtons:
- - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Become a speaker"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Devenir un conférencier"}
+ - {link: "https://meetup.com/GDGFoumban", text: "Rejoindre GDG Foumban"}
+slogan: "Nous sommes GDG Foumban"
 
 # About Block
 aboutTitle: "À propos de GDG DevFest "
