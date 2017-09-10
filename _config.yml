@@ -14,7 +14,7 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 
-baseurl: "/"
+baseurl: "/devfestfoumban"
 url: "http://devfestfoumban.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Intervenants"}
  - {permalink: "/team/", text: "Equipe"}
 # - {permalink: "/logistics/", text: "Logistics"}
- 
+
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Become a speaker"}
 rightNavigationButtons:
@@ -117,13 +117,13 @@ venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedImage: "gdgs.jpg"
+tweetsFeedTitle: "Les tweets"
 twitterHashTag: "GDGFoumban"
 twitterFeed: "http://haideholdings.com/tweetledee/favoritesjson.php?cache_interval=300"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Les Organisateurs"
 #partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -180,10 +180,10 @@ socialLinks:
  - {link: "https://plus.google.com/b/101655900172336891178/", icon: "google-plus"}
  - {link: "https://twitter.com/GDGFoumban", icon: "twitter"}
  - {link: "https://www.facebook.com/GDGfoumban/", icon: "facebook"}
- 
+
 footerBlocks:
  -
-  title: "Links"
+  title: "Liens"
   links:
    - {link: "http://gdgfoumban.org", text: "gdgfoumban.org"}
    - {link: "https://developers.google.com", text: "Google Developers"}
@@ -197,7 +197,7 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
  -
    title: "joindre"
-   links: 
+   links:
     - {link: "https://www.meetup.com/GDGFoumban/", text: "GDG Meetup"}
 
 # Blog
