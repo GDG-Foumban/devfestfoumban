@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Foumban 2017"
-email: "gdgfooumban14@gmail.com"
+email: "gdgfoumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 
-baseurl: "/"
+baseurl: "/devfestfoumban"
 url: "http://devfestfoumban.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "Août - Novembre, 2017"
+eventDate: "14 - October, 2017"
 typeoutTextValues: ' "Foumban", "Season"'
 typeoutFallback: "Foumban"
 heroButtons:
