@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2017-07-22 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Foumban 2017 will be held in August in  Foumban. If you want to be part of this great event as a speaker you knocked at the good door.
+GDG DevFest Foumban 2017 will be held in October in  Foumban. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -59,5 +59,5 @@ __Please note:__ There is no guarantee that a submission will be put onto the co
 
 The program committee picks the most interesting talk proposals and informs the selected submitters until August 22<br/>
 
-#### Any questions? 
+#### Any questions?
 Email organizers at [gdgfoumban14@gmail.com](mailto:gdgfoumban14@gmail.com)
