@@ -2,6 +2,25 @@ $nav-color: #fff;
 $nav-color-hover: #cfcfcf;
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
+// Font weights
+$light: 100;
+$regular: 300;
+$bold: 500;
+$extra-bold: 600;
+
+// Colors
+$main-color: #03a9f4;
+$link-color: $main-color;
+$link-lighten-amount: 20%;
+$base-background-color: #fff;
+$base-section-background-color: $link-color;
+$primary-color: #4285f4;
+$primary-color-hover: #3266d5;
+$icon-fill-color: #8b8b8b;
+
+$base-transition: all .3s;
+$long-transition: all .5s;
+$base-font-size: 13px;
 
 .top-header {
     position: fixed;
@@ -34,7 +53,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         transform: translateY(1px);
         @media (max-width: 767px) {
             transform: translateX(-45px);
-        }    
+        }
     }
     .logo {
         display: inline-block;
@@ -78,19 +97,19 @@ nav {
         margin: 0;
         padding: 0;
         list-style: none;
-        text-align: left;
+        text-align: right;
         transform: translateY(40px);
         transition: $base-transition;
         @media (max-width: 767px) {
             line-height: 20px;
             width: 95%;
             margin: 20px 0 0 5px;
-            transform: translateY(0);  
+            transform: translateY(0);
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(20px);
             @media (max-width: 767px) {
-                transform: translateY(0);  
+                transform: translateY(0);
             }
         }
     }
