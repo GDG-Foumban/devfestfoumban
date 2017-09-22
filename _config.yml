@@ -118,14 +118,14 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "gdgs.jpg"
-tweetsFeedTitle: "Les tweets"
+tweetsFeedTitle: "Les tweets:"
 twitterHashTag: "GDGFoumban"
 twitterFeed: "http://haideholdings.com/tweetledee/favoritesjson.php?cache_interval=300"
 
 # Partners Block
 organizersTitle: "Les Organisateurs"
 #partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Devenir Sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
