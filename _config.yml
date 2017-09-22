@@ -51,7 +51,7 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Devenir un conférencier"}
 rightNavigationButtons:
  - {link: "https://www.meetup.com/GDG-Foumban-Meetup/events/242160222/", text: "Assister à l'événement"}
 
