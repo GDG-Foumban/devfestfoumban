@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest Foumban 2017"
 email: "gdgfoumban14@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest est un ensemble d'événements dans le monde entier qui rassemble les développeurs et les passionnés qui souhaitent devenir des développeurs pour expérimenter le hackathon, le codage, le stand d'idées, les défis de programmation et bien plus encore."
 
 baseurl: "/"
 url: "http://devfestfoumban.org"
