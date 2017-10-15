@@ -56,9 +56,9 @@ rightNavigationButtons:
  - {link: "https://www.meetup.com/GDG-Foumban-Meetup/events/242160222/", text: "Assister à l'événement"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero-new.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "14 - October, 2017"
+eventDate: "18 - November, 2017"
 typeoutTextValues: ' "Foumban", "Season"'
 typeoutFallback: "Foumban"
 heroButtons:
@@ -94,7 +94,7 @@ rockstarSpeakersButtonText: "Tous les Conférencier"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Royal Palace Road opp. Foyer"
 eventAddressLocality: "Foumban"
 eventAddressLocalityRegion: "West Region"
