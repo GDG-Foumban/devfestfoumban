@@ -14,7 +14,7 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfoumban14@gmail.com"
 description: "GDG DevFest est un ensemble d'événements dans le monde entier qui rassemble les développeurs et les passionnés qui souhaitent devenir des développeurs pour expérimenter le hackathon, le codage, le stand d'idées, les défis de programmation et bien plus encore."
 
-baseurl: "/"
+baseurl: "/devfestfoumban"
 url: "http://devfestfoumban.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
@@ -57,9 +57,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero-new.jpg"
-heroTitle: "GDG DevFest <typeout> 2017"
+heroTitle: "GDG DevFest <typeout>Foumban 2017"
 eventDate: "18 - November, 2017"
-typeoutTextValues: ' "Foumban", "Season"'
+typeoutTextValues: '"","Foumban", "Season"'
 typeoutFallback: "Foumban"
 heroButtons:
  - {link: "https://goo.gl/forms/8Rs6lAbzcyj6LhW33", text: "Devenir un conférencier"}
